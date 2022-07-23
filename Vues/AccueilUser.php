@@ -7,7 +7,7 @@
 	<title> Accueil </title>
 </head>
 <body>
-<h2 class="title"> Choisissez votre option </h2>
+<h2 class="title"> Bienvenue! Quelle option souhaitez-vous voir ?</h2>
 <div class="contentCards">
 
     <article class="card">
@@ -15,7 +15,7 @@
             <h2>Cinema</h2> 
         </header>    
         <img src="images/cinema.png">   
-        <a href="formCinema.php"> Choisir </a>   
+        <a href="VueCinema.php"> Visiter </a>   
     </article>
 
     <article class="card">
@@ -23,7 +23,7 @@
             <h2>Restaurant</h2>
         </header>    
         <img src="images/restaurant.jpeg" >  
-        <a href="formRestaurant.php"> Visiter </a>      
+        <a href="VueRestaurant.php"> Visiter </a>      
     </article>
 
     <article class="card">
@@ -31,7 +31,7 @@
             <h2>Examen</h2>
         </header>    
         <img src="images/exam-ians.jpeg" >   
-        <a href="formExamen.php"> Visiter </a>      
+        <a href="VueExamen.php"> Visiter </a>      
     </article>
 
 </div>

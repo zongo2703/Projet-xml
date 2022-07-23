@@ -45,9 +45,9 @@
           </div>
         </div>
         <div class="item">
-            <label for="state">Note<span>*</span></label> </br>
-            Spectateur <input id="state" type="number"   name="annee" required/>
-            Presse <input id="state" type="number"   name="annee" required/>
+            <label for="state">Note</label> </br>
+            Spectateur <input id="state" type="number"   name="annee" />
+            Presse <input id="state" type="number"   name="annee"/>
           </div>
         
         <div class="week">
@@ -100,6 +100,7 @@
         <div class="btn-block">
           <button type="submit" href="/">Submit</button>
         </div>
+
       </form>
 </div>
 </body>
